@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">All_in_blind</string>
+    <string name="card_of_player">Card of player</string>
+    <string name="deck_of_cards">Deck of cards</string>
+    <string name="deal">DEAL</string>
+    <string name="score_0_0">Score: 0–0</string>
+    <string name="score">Score: %s-%s</string>
+    <string name="start">Start</string>
+    <string name="enable_toasts">Enable Toasts</string>
+    <string name="welcome_to_all_in_blind">Welcome to All-in Blind</string>
+    <string name="reset">RESET</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
