@@ -4,6 +4,8 @@ Kotlin Mobile App to play split-screen poker, but without betting, just the fina
 
 I just wanted to see how to create a basic app using Kotlin.
 
-![Alt text](/img/MainScreen.jpg)
-![Alt text](/img/BeforeDealing.jpg)
-![Alt text](/img/AfterDealing.jpg)
+<p style="text-align: center;">
+  <img src="/img/MainScreen.jpg" width="300" />
+  <img src="/img/BeforeDealing.jpg" width="300" /> 
+  <img src="/img/AfterDealing.jpg" width="300" />
+</p>
